@@ -1,0 +1,7 @@
+node_modules/
+.git/
+.gitignore
+FlacLossless-main/
+*.log
+.env.local
+.DS_Store

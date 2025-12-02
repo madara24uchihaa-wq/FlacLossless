@@ -1,0 +1,5 @@
+[build]
+nixpkgs = ["python311", "ffmpeg"]
+
+[install]
+nixpkgs = ["python311", "ffmpeg"]

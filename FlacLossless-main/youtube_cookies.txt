@@ -1,0 +1,13 @@
+# Netscape HTTP Cookie File
+# This file contains cookies for YouTube
+# Export your real cookies using: yt-dlp --cookies-from-browser chrome --cookies cookies.txt "https://www.youtube.com/"
+# Then replace this file with your actual cookies
+
+# IMPORTANT: This is a template. Replace with your actual cookies from your browser!
+# Your cookies must have these columns separated by tabs:
+# domain	flag	path	secure	expiration	name	value
+
+# Example format (DO NOT USE - REPLACE WITH YOUR OWN):
+# .youtube.com	TRUE	/	TRUE	1735689600	VISITOR_INFO1_LIVE	your_visitor_id_here
+# .youtube.com	TRUE	/	TRUE	1735689600	PREF	your_pref_here
+# .youtube.com	TRUE	/	TRUE	1735689600	LOGIN_INFO	your_login_here

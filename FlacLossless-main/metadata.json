@@ -1,0 +1,7 @@
+{
+  "name": "SonicPulse AI",
+  "description": "An ultra-customizable, AI-enhanced music player with real-time beat visualization, professional 10-band equalizer, and vocal control.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
